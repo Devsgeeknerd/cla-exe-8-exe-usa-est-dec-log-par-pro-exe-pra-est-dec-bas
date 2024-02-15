@@ -13,6 +13,20 @@ Caso contrário, imprima:
 
 [Resolução.](main.ts)
 
+* **Boas práticas**:
+  * Nomes significativos para variáveis:
+    * 'letraUsuario' é claro e descritivo.
+  * Uso de if-else:
+    * Organiza as condições de forma clara.
+  * As vogais estão claramente listadas, facilitando a leitura e compreensão.
+
+* **Sugestões de melhoria**:
+  * Pode ser útil considerar a entrada do usuário de forma mais flexível (minúsculas/maiúsculas).
+  * Se a lógica for reutilizada, considerar encapsular em uma função.
+
+* Observação:
+  * Certifique-se de tratar diferentes casos (maiúsculas/minúsculas) dependendo dos requisitos.
+
 <!-- Informações -->
 ## &#8505; Informações
 
