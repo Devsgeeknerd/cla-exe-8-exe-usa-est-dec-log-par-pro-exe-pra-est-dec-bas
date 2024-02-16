@@ -5,27 +5,33 @@ Crie um código que diga se a letra contida na variável `letraUsuario` é uma v
 
 Se for uma vogal imprima:
 
-* "Sua letra é uma vogal".
+* “Sua letra é uma vogal”.
 
 Caso contrário, imprima:
 
-* "Sua letra é uma consoante".
+* “Sua letra é uma consoante”.
 
 [Resolução.](main.ts)
 
-* **Boas práticas**:
-  * Nomes significativos para variáveis:
-    * 'letraUsuario' é claro e descritivo.
-  * Uso de if-else:
-    * Organiza as condições de forma clara.
-  * As vogais estão claramente listadas, facilitando a leitura e compreensão.
+> [!IMPORTANT]\
+> **Boas práticas**:
+>
+> * Nomes significativos para variáveis:
+>   * “letraUsuario” é claro e descritivo.
+> * Uso de if-else:
+>   * Organiza as condições de forma clara.
+> * As vogais estão claramente listadas, facilitando a leitura e compreensão.
 
-* **Sugestões de melhoria**:
-  * Pode ser útil considerar a entrada do usuário de forma mais flexível (minúsculas/maiúsculas).
-  * Se a lógica for reutilizada, considerar encapsular em uma função.
+> [!WARNING]\
+> **Sugestões de melhoria**:
+>
+> * Pode ser útil considerar a entrada do usuário de forma mais flexível (minúsculas/maiúsculas).
+> * Se a lógica for reutilizada, considerar encapsular em uma função.
 
-* Observação:
-  * Certifique-se de tratar diferentes casos (maiúsculas/minúsculas) dependendo dos requisitos.
+> [!NOTE]\
+> **Observação**:
+>
+> * Certifique-se de tratar diferentes casos (maiúsculas/minúsculas) dependendo dos requisitos.
 
 <!-- Informações -->
 ## &#8505; Informações
